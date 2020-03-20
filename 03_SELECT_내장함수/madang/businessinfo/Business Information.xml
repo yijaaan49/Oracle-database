@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="5436F319-A493-AFE6-2CCD-1C1C42FD0AB2">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 02:01:00 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>

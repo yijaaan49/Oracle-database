@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="DC61B97D-EF1A-B95E-70BF-2AA0772A3FE8">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 02:01:00 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

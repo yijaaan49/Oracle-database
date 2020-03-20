@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="madang" id="58CF4258-1A39-BDA3-26D0-7A3662C22F8C" version="3.5">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 02:01:00 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>58CF4258-1A39-BDA3-26D0-7A3662C22F8C</designId>
+</OSDM_Design>

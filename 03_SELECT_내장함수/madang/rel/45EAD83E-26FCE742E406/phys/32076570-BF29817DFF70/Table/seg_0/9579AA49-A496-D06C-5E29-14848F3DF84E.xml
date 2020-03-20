@@ -1,0 +1,66 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<TableProxyOraclev11g class="oracle.dbtools.crest.model.design.storage.oracle.v11g.TableProxyOraclev11g" name="ORDERS" directorySegmentName="seg_0" id="9579AA49-A496-D06C-5E29-14848F3DF84E">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 08:46:20 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+<schemaObject>8993F7F1-E1A9-91C1-A6BB-9AABCBDD95DE</schemaObject>
+<logging>YES</logging>
+<partitionedRowMovement>DISABLE</partitionedRowMovement>
+<segment>9C4F8C87-CC84-F1F1-C418-12B13E8E27DB</segment>
+<tableSpace>276241D7-7967-D197-429A-95562CD87EC1</tableSpace>
+<temporaryChanged>false</temporaryChanged>
+<accessDriverType>oracle_loader</accessDriverType>
+<rejectLimit></rejectLimit>
+<columnProxies itemClass="oracle.dbtools.crest.model.design.storage.oracle.v12c.ColumnProxyOraclev12c">
+<ColumnProxy name="BOOKID" id="18ACE683-2D28-45E1-16A8-3E192940EE8D">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 08:46:20 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDERID" id="19D4DD74-A953-92A9-1FAE-623B86C48999">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 08:46:20 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="CUSTID" id="2D145F17-0B31-72BF-26E4-CD329735036B">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 08:46:20 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="SALEPRICE" id="A48D1C75-7DD9-4101-9520-A370096EA462">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 08:46:20 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+</ColumnProxy>
+<ColumnProxy name="ORDERDATE" id="C69AF0DE-FC7B-FCEC-3AAE-336BBAD5BCA7">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 08:46:20 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+</ColumnProxy>
+</columnProxies>
+<foreignKeys>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="SYS_C007011" id="818E7714-D97B-9A9A-EFA4-9A5C5BD36239">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 08:46:20 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+</ForeignKey>
+<ForeignKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.FKProxyOraclev10g" name="SYS_C007012" id="B56F56FD-2A1B-FE1E-2B11-BDE2A253320D">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 08:46:20 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+</ForeignKey>
+</foreignKeys>
+<primaryKeys>
+<PrimaryKey class="oracle.dbtools.crest.model.design.storage.oracle.v10g.PKProxyOraclev10g" name="ORDERS_PK" id="E393DE67-CD01-79AF-8D06-078A2CDC4F98">
+<createdBy>bitcamp</createdBy>
+<createdTime>2019-10-31 08:46:20 UTC</createdTime>
+<ownerDesignName>madang</ownerDesignName>
+<schemaObject>8993F7F1-E1A9-91C1-A6BB-9AABCBDD95DE</schemaObject>
+<segment>C7D598C2-4274-19DF-F3AB-A4B5202C35C4</segment>
+<tableSpace>276241D7-7967-D197-429A-95562CD87EC1</tableSpace>
+<indexSegment>C7D598C2-4274-19DF-F3AB-A4B5202C35C4</indexSegment>
+<indexSort>SORTED</indexSort>
+<usingIndex>BY INDEX NAME</usingIndex>
+</PrimaryKey>
+</primaryKeys>
+</TableProxyOraclev11g>
